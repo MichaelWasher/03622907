@@ -1,0 +1,9 @@
+namespace: "03622907"
+
+resources:
+  - ns.yaml
+  # Deployment
+  - deployment/deployment.yaml
+  - deployment/svc.yaml
+  - deployment/route.yaml
+
